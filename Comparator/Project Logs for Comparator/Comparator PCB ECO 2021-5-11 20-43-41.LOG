@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R/C1 NewDesignator=R.C1
+Change Component Designator: OldDesignator=R/C2 NewDesignator=R.C2
+Added Member To Class: ClassName=Comparator Member=Component R.C2 Res3
+Added Room: Name=Comparator

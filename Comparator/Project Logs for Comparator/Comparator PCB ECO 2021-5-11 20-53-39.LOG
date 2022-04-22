@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-5
+Added Room: Name=Comparator

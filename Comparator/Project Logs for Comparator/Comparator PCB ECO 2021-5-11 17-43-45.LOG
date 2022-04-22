@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=0805D
+Change Component Footprint: Designator=R2 Old Footprint=J1-0603 New Footprint=0805D
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=0805D
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=0805D
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=0805D
+Change Component Footprint: Designator=R/C1 Old Footprint=J1-0603 New Footprint=0805D
+Change Component Footprint: Designator=R/C2 Old Footprint=J1-0603 New Footprint=0805D
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=0805D
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=0805D
+Added Room: Name=Comparator
