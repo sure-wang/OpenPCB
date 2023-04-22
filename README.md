@@ -20,3 +20,6 @@
 **注：其中MAX268是古董芯片了，市场上很少，也很贵，虽然性能很好，但是常见的是MAX266，便宜很多。之所以还要分享这个工程出来，是因为这块板子用到了一个具有学习意义的电平标准转换电路。**
 
 使用的软件为AD
+
+## 安全性
+[![Security Status](https://s.murphysec.com/badge/sure-wang/OpenPCB.svg)](https://www.murphysec.com/p/sure-wang/OpenPCB)
